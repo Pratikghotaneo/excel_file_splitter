@@ -210,6 +210,9 @@ export default function Home() {
           XML and related package parts are retained rather than recreating the
           workbook through a spreadsheet library.
         </p>
+        <div className="w-full flex justify-center items-center mt-5 bg-gray-800 p-10">
+           <p className="text-xl text-white">Developed by Pratik S. Ghotane</p>
+        </div>
       </div>
     </main>
   );
